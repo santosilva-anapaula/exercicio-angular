@@ -1,0 +1,30 @@
+.title {
+    color: rgb(14, 14, 71);
+    text-align: center;
+}
+
+.user {
+    background-color: rgb(191, 182, 208);
+    margin: 2rem;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    box-shadow: 3px 3px rgb(241, 240, 240);
+}
+
+li {
+    list-style-type: none;
+}
+
+.user-name {
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.user-age {
+    font-style: italic;
+}
+
+.user-biography {
+    color: rgb(75, 75, 75);
+    margin-top: 1rem;
+}
