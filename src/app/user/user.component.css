@@ -1,5 +1,5 @@
 .title {
-    color: rgb(14, 14, 71);
+    color: rgb(39, 14, 71);
     text-align: center;
 }
 
@@ -18,13 +18,15 @@ li {
 .user-name {
     font-size: 1.5rem;
     font-weight: bolder;
+    color: rgb(66, 17, 111);
 }
 
 .user-age {
     font-style: italic;
+    color: rgb(106, 56, 152);
 }
 
 .user-biography {
-    color: rgb(75, 75, 75);
+    color: rgb(72, 60, 82);
     margin-top: 1rem;
 }
